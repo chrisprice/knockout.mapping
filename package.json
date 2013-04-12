@@ -17,7 +17,7 @@
   "author": "Roy Jacobs",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "1bf10db607167cfb06aa3da9aee23e98a558d554",
+  "gitHead": "35482d03ee7520b1afe0b437a6e66150369378a7",
   "dependencies": {
     "knockout": "~2.3.0pre"
   }
